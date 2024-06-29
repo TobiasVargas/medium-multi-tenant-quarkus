@@ -1,3 +1,7 @@
+# Medium
+
+https://medium.com/@tobias.vargas_/aplica%C3%A7%C3%B5es-multi-tenant-com-quarkus-e-postgresql-ec1412a638d3
+
 # multitenancy
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
